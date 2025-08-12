@@ -26,7 +26,7 @@
   "scanSettingsSAST": {
     "enableScan": true,
     "scanPullRequests": true,
-    "enableRemediation": false,
+    "enableRemediation": true,
     "enableSecretsScan": false,
     "incrementalScan": true,
     "snippetSize": 0,
